@@ -9,7 +9,7 @@ Some repositories may be currently private due to the fact that i am still worki
 ## 🔨 Projects that i am currently working on:
 Some projects that i want to hightlight, since they are the ones that i am currently working on and i plan to work on them in the future.
 
-- **Jarvis**: Software that helps you answers to the questions of the Ingegngeria del Software Exam.
+- **Jarvis**: Software that helps you to download and answers questions of a Moodle Quiz.
 - **FearOfFalling**: My thesis project for my BSc in Computer Science at La Sapienza University of Rome.
 
 ## 🗃️ Projects that i have worked on in the past:
