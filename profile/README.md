@@ -1,4 +1,4 @@
-# Struggling Student in Computer Science 💻
+# Sleepy Software Engineer 💻
 
 > [!NOTE] 
 > This organization contains all my personal projects and assignments that i am currently working on or have worked on in the past that are related to my Computer Science degree at La Sapienza University of Rome. 
